@@ -5,7 +5,7 @@
 
 2)  安装   arpoison   ,  dnsspoof    :  yum install dsniff 
 
-### 配置文件格式
+### 配置文件
 
 config.py   基本配置文件 
 

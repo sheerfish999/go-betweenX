@@ -2,9 +2,7 @@
 
 """
 1)  只适用于同网段 (本地对应的网卡和对应目标在同一个网段)  , 对安装360的PC(启动网络保护)和安卓机测试无效,   虚拟机似乎必须是同一个server下
-2)  安装   arpoison   ,  dnsspoof    参考基本原理步骤 ----  目前还未统一收集
-
-参数格式:  python tocheat.py
+2)  安装   arpoison   ,  dnsspoof    :  yum install dsniff 
 
 config.py   基本配置文件 
 (注意以下文件名可配)
